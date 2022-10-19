@@ -8,7 +8,8 @@ Este es un repositorio para la documentacion de Wifi Client y Ap
 ![paso 1](img/1.png)
 
 2.	Luego ingresamos en cambiar configuración del adaptador
- ![paso 1](img/2.png)
+
+![paso 1](img/2.png)
 
 3.	Luego seleccionamos el adaptador puente y luego propiedades
 
