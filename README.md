@@ -5,15 +5,15 @@ Este es un repositorio para la documentacion de Wifi Client y Ap
 
 1. Para configurar el gatwey, equipo local y mascara ingresamos por el panel de control y nos ubicamos en la siguiente ruta 
  
-![paso 1](img/1.png)
+<center><img src="./img/1.png"></center>
 
 2.	Luego ingresamos en cambiar configuración del adaptador
 
-![paso 1](img/2.png)
+<center><img src="./img/2.png"></center>
 
 3.	Luego seleccionamos el adaptador puente y luego propiedades
 
-![paso 1](img/3.png)
+<center><img src="./img/3.png"></center>
  
 4.	Seleccionamos el protocolo donde vamos a modificar la dirección de red y seleccionamos propiedades.
  
