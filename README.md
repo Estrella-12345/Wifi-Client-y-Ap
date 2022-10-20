@@ -1,6 +1,12 @@
 # Wifi-Client-y-Ap
 Este es un repositorio para la documentacion de Wifi Client y Ap
 
+Integrantes:
+Camilo Coral 
+Linda Castillo
+Diana Leonela
+Andrea Arteaga
+
 ## Pasos para configurar Wifi-Client-y-Ap
 
 1. Para configurar el gatwey, equipo local y mascara ingresamos por el panel de control y nos ubicamos en la siguiente ruta 
