@@ -2,9 +2,9 @@
 Este es un repositorio para la documentacion de Wifi Client y Ap
 
 Integrantes:
-Camilo Coral 
-Linda Castillo
-Diana Leonela
+Camilo Coral, 
+Linda Castillo,
+Diana Leonela y
 Andrea Arteaga
 
 ## Pasos para configurar Wifi-Client-y-Ap
